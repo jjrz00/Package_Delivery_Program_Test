@@ -1,6 +1,6 @@
-```
-Assumptions
-```
+
+Assumptions:
+
 Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
 
 •  The trucks travel at an average speed of 18 miles per hour and have an infinite amount of gas with no need to stop.
